@@ -5,10 +5,12 @@
 - 📚 Cursando Ciência da Computação | UENP
 - 🎬off: Também sou editor de vídeo
 
+<div>
 
 
 
 
+</div>
 
 ## Skills
 
