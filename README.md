@@ -1,9 +1,12 @@
 ## About me
-<img src="https://cdn.discordapp.com/attachments/1038527866368970862/1375010208912511086/eunerd.png?ex=68d6e74c&is=68d595cc&hm=751ecaa0d20a2b3958f36a6826eb05e04ca60862fcb2c5efbfb5a8a0d3775d70&" align="right" width="150"/>
+<img src="https://cdn.discordapp.com/attachments/1038527866368970862/1375010208912511086/eunerd.png?ex=68d6e74c&is=68d595cc&hm=751ecaa0d20a2b3958f36a6826eb05e04ca60862fcb2c5efbfb5a8a0d3775d70&" align="right" width="200"/>
 
 - 💻 Estudando C e Python
 - 📚 Cursando Ciência da Computação | UENP
 - 🎬off: Também sou editor de vídeo
+
+
+
 
 
 
